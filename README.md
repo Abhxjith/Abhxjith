@@ -1,6 +1,6 @@
-![Running Digital GIF](https://giphy.com/gifs/running-digital-26xBH4lZFm27dhQyc)
+[via GIPHY](https://giphy.com/gifs/running-digital-26xBH4lZFm27dhQyc)
 
-<h3 align="center">Hey, I’m Abhijith 👾</h3>
+<h3>Hey, I’m Abhijith 👾</h3>
 
 #### grateful. grapefruit. 
 
