@@ -1,4 +1,5 @@
-[via GIPHY](https://giphy.com/gifs/running-digital-26xBH4lZFm27dhQyc)
+![gif](https://github.com/user-attachments/assets/b27d7540-4516-4170-8e38-9211fc1c3f84)
+
 
 <h3>Hey, I’m Abhijith 👾</h3>
 
