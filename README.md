@@ -4,17 +4,17 @@
 
 </div>
 
-<h3>Hey, I’m Abhijith 👾</h3>
+<h2>abhijith 👾</h2>
 
 #### grateful. grapefruit.
 
 ---
 
-### 💻 What I Do
-I build **apps** and **UIs** :p .
+### 💻 
+I build **apps** :p .
 
 ---
 
-### 🌐 Connect
+### 🌐 
 - [X](https://x.com/AJinnu)
 - [LinkedIn](https://www.linkedin.com/in/abhijithjinnu/)
