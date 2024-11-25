@@ -7,6 +7,6 @@
 <h2>abhijith 👾</h2>
 
 #### grateful. grapefruit.
-#### 💻 I build **apps** :p .
+#### 💻 I build **apps** :p 
 
 
