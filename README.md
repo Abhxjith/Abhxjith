@@ -7,14 +7,6 @@
 <h2>abhijith 👾</h2>
 
 #### grateful. grapefruit.
+#### 💻 I build **apps** :p .
 
----
 
-### 💻 
-I build **apps** :p .
-
----
-
-### 🌐 
-- [X](https://x.com/AJinnu)
-- [LinkedIn](https://www.linkedin.com/in/abhijithjinnu/)
